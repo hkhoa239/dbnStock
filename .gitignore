@@ -146,7 +146,7 @@ cython_debug/
 # Project specific
 *.png
 !README*.png
-data/
+# data/
 logs/
 checkpoints/
 results/
